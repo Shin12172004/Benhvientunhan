@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.vite/
+*.tsbuildinfo
+coverage/
+database/backups/*.dump
+database/backups/*.sql
+storage/
+.env.local
+.DS_Store
+.env
+.env.*
+!.env.example
+.vscode/
+node_modules/
+dist/
+qldkvadatlichkham-git/
